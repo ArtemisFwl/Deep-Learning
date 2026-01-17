@@ -1,1 +1,3 @@
-# Kaggle_projects
+## 📊 Telecom Customer Churn Prediction using Deep Learning
+
+This project focuses on predicting customer churn in the telecom industry using deep learning techniques. The goal is to identify customers who are likely to discontinue services based on their usage patterns, service subscriptions, and demographic information. A neural network–based model is built to capture complex, non-linear relationships in the data and improve churn prediction accuracy. This project demonstrates end-to-end steps including data preprocessing, feature engineering, model training, evaluation, and insights generation to support business decision-making and customer retention strategies.
